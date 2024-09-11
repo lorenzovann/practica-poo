@@ -5,7 +5,11 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jerarquia de clases para Escuela", "Jerarquia de clases para Escuela", "{7BAA8B87-00C5-4AE4-8D23-9BAEC095A218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escuela.Clases.Jer", "Escuela.Clases.Jer\Escuela.Clases.Jer.csproj", "{C2C97BC1-334E-4DA5-964A-1FACBF1442EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escuela.Clases.Jer", "Escuela.Clases.Jer\Escuela.Clases.Jer.csproj", "{C2C97BC1-334E-4DA5-964A-1FACBF1442EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SHape", "SHape", "{408D463D-AA17-455A-9731-8AB00CF1DEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape.poo.pract", "Shape.poo.pract\Shape.poo.pract.csproj", "{E1D393B0-E9AC-4716-8CE6-B9D238D84E09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{C2C97BC1-334E-4DA5-964A-1FACBF1442EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C97BC1-334E-4DA5-964A-1FACBF1442EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C97BC1-334E-4DA5-964A-1FACBF1442EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D393B0-E9AC-4716-8CE6-B9D238D84E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D393B0-E9AC-4716-8CE6-B9D238D84E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D393B0-E9AC-4716-8CE6-B9D238D84E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D393B0-E9AC-4716-8CE6-B9D238D84E09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C2C97BC1-334E-4DA5-964A-1FACBF1442EB} = {7BAA8B87-00C5-4AE4-8D23-9BAEC095A218}
+		{E1D393B0-E9AC-4716-8CE6-B9D238D84E09} = {408D463D-AA17-455A-9731-8AB00CF1DEFE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1CDFC06E-2AA7-4E42-A09A-90E4AA71CF1F}
